@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "inputs" | cut -c 2-
+tr -d "cC"-
